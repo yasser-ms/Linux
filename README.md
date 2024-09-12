@@ -53,8 +53,7 @@
 
 
 
-## 6. Gestion des paquets (système basé sur APT)
-
+## 6. Gestion des paquets 
 - **`apt update`** : Mettre à jour la liste des paquets.
 - **`apt upgrade`** : Mettre à jour tous les paquets installés.
 - **`apt install <nom_du_paquet>`** : Installer un nouveau paquet.
